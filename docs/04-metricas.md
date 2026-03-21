@@ -44,7 +44,7 @@ Crie testes simples para validar seu agente:
 ### Teste 4: Informação inexistente
 - **Pergunta:** "Quanto rende o produto XYZ?"
 - **Resposta esperada:** Agente admite não ter essa informação
-- **Resultado:** [ ] Correto  [ ] Incorreto
+- **Resultado:** [3 ] Correto  [ ] Incorreto
 
 ---
 
@@ -53,10 +53,10 @@ Crie testes simples para validar seu agente:
 Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
-- [Liste aqui]
+- [As respostas, a interface, o histório, o assistente não responde a qualquer pergunta]
 
 **O que pode melhorar:**
-- [Liste aqui]
+- [O agente pode conseguir fornecer mais conteúdo e mais bases de conhecimento]
 
 ---
 
