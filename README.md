@@ -139,7 +139,7 @@ Todas as ferramentas abaixo possuem versões gratuitas:
 ```
 
 ---
-
+Made By Danielius7_er
 ## Dicas Finais
 
 1. **Comece pelo prompt:** Um bom system prompt é a base de um agente eficaz
